@@ -6,12 +6,14 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+FeelLille - a cognitive project, entirely dedicated to the city's cultural life. The basis of our project is the interest of residents and visitors, those who love history, are interested in cultural life, and wants to know about this city as much as possible.
+{: style="text-align: justify;"}
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+We want to develop for you a simple and intuitive way to enter the world of exciting whirl of various events. Collect in one place all the necessary information about the world of theaters, festivals, museum, various exhibitions and different interesting and unusual places..
+{: style="text-align: justify;"}
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We want people to be able to quickly find the necessary information based on the needs, curiosity and desire to learn something new. We are creating an environment where everyone can discover something unusual, share it with friends, and a place that is simple and accessible to everyone.
+{: style="text-align: justify;"}
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Our mission is to unite people, giving everyone the opportunity to spend their leisure time in the city as he likes to get new emotions and acquire an interesting experience. With us easy and convenient to find out about current events of interest, trivial places for relaxation and active ways of spending time.
+{: style="text-align: justify;"}
