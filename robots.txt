@@ -1,0 +1,4 @@
+# Référencement webophil.net
+# Fichier robots.txt pour le site : https://whispyy.github.io/FeelLilleDevBlog/
+User-agent: *
+Sitemap: https://whispyy.github.io/FeelLilleDevBlog/sitemap.xml
