@@ -22,7 +22,7 @@ baseurl: "/FeelLilleDevBlog" # the subpath of your site, e.g. /blog/
 url: "http://whispyy.github.io/feellillle/" # the base hostname & protocol for your site
 cover: "/assets/header_image1.jpg"
 logo: "/assets/logo.png"
-keywords: "feellillle, devblog, dev, blog, lille"
+keywords: "feellillle, devblog, dev, blog, feel, lille"
 
 # Build settings
 markdown: kramdown
