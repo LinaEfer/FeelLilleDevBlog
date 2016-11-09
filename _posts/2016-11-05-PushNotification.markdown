@@ -25,6 +25,7 @@ To send push notifications using no didicated server I used two different system
 {: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
 ---
+
 ## How it works ?
 
 I made a little scheme to explain that because I think it is easier to understand.
@@ -40,6 +41,7 @@ Finally Firebase process the request and send the notification back to the Devic
 {: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
 ---
+
 ## Development part
 
 * First things to do is to set up the phonegap plugin using the command :
@@ -94,3 +96,5 @@ $scope.$on('cloud:push:notification', function(event, data) {
   alert(msg.title + ': ' + msg.text);
 });
 ```
+
+Once there you will be able to receive notification from Firebase. On a next post we will see how to send a schedule notification.
