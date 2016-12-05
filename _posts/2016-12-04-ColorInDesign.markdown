@@ -65,6 +65,6 @@ A large collection of ready-made color gradients.
 The site offers the most aggressive names for CSS colors.
 <img src="../../../../assets/posts/Color_In_Design/6_BADA55.png">
 
-+ [Colourcode](http://colourco.de)
++ [Colourcode](http://colourco.de)  
 Choosing colors based on hsl. The circuit includes a different color combination.
 <img src="../../../../assets/posts/Color_In_Design/7_Colourcode.png">
