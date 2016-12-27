@@ -11,6 +11,7 @@ exclude:
 # Site settings
 title: FeelLille
 subtitle: "A simple mobile app which organizes your events in Lille"
+form: "https://docs.google.com/forms/d/e/1FAIpQLSe-LXyUJkZzJ7_050ABR_bkGgUGWGeMY-12eOZFvbD-bgWAMw/viewform"
 email: feellille@mail.com
 name: JF Durand And Vasilina Frolkova
 description: >
