@@ -15,7 +15,7 @@ form: "https://docs.google.com/forms/d/e/1FAIpQLSe-LXyUJkZzJ7_050ABR_bkGgUGWGeMY
 email: feellille@mail.com
 name: JF Durand And Vasilina Frolkova
 description: >
-  Dev-Blog of the mobile app FeelLillle
+  Dev-Blog of the mobile app FeelLille
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -74,8 +74,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: Whispyy
-    url: https://twitter.com/Whispyy
+    username: Feel_Lille
+    url: https://twitter.com/Feel_Lille
     desc: Follow me on Twitter
     share: true
 
