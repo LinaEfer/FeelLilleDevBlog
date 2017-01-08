@@ -8,6 +8,7 @@ tags:	Data Model Structure
 ---
 
 We recently approved the structure of data modeling with the coach. Speaking about structuring data could reveal a little bit more about features.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
 See the model below :
 
@@ -18,6 +19,7 @@ See the model below :
 ## DataModel Structure
 
 In this section I will describe the role of each table that would be called document in NoSQL.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
 * User : contains the data of user, I just put usrename in the scheme. But it will contains more things such like description, profile picture... etc
 * Event : contains the data of event. I'm deeply attached to link data of event to a place for some reason I will explain later.
@@ -29,6 +31,7 @@ In this section I will describe the role of each table that would be called docu
 
 Arrived at this point of the article, It is important to give an explaination about the choice to separate Event and Place.
 Seperate Event and Place would allow :
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
 * people to like Event and Place seperatly. In this case it would be easier for users to find more event on this place.
 * to improve the performance of the recommender system. Indeed, we intend to deploy a powerful system of recommendation. For this we need to divide the data as strictly as we can.
@@ -36,5 +39,7 @@ Seperate Event and Place would allow :
 ## Details about EventUser & PlaceUser
 
 I talked about interaction between the user and the group Place+Event.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
-Allowing people to interact with Events and Places will improve the recommendation and their ability to find events more quickly and more easily. We have the intention to implements a like-system.And also to give the possibility to see who is participating to Events. 
+Allowing people to interact with Events and Places will improve the recommendation and their ability to find events more quickly and more easily. We have the intention to implements a like-system.And also to give the possibility to see who is participating to Events.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
