@@ -72,7 +72,7 @@ FriendlyChat.prototype.signIn = function() {
 };
 ```
 
-Example for Twitter Sign-in:
+**Example for Twitter Sign-in:**
 {: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
 ```javascript
