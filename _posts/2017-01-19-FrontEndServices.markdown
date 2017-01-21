@@ -19,6 +19,7 @@ Before starting it we already knew that we need a user manager service that is w
 So to conclude I put there a scheme to illustrate the current modelisation of services. It is not the final one because we are waiting for validation of it by our coach.
 {: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
-<img src="../../../../assets/posts/FrontEndServices.png">
+<img src="../../../../assets/posts/FeelLilleServices.png">
 
 On the scheme you have at the top the activity where services will be used. An activity is equivalent at a page for ionic and angular. And at the bottom you have the name of the table services need to pull datas.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
