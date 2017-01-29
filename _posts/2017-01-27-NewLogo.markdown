@@ -1,0 +1,54 @@
+---
+layout: post
+title:  New Logo
+date:   2017-01-27 12:55:20
+author: Vasilina
+categories: FeelLille
+tags:	Logo Design
+---
+
+## How we created a new logo
+
+We are creating a mobile application, this app includes a guide for foreigners visiting the beautiful city of Lille, so our logo should reflect the main idea of the project, and spirit of the city.
+Also, we concluded that the Beffroi was the most emblematic monument of the city, so the basic idea was decided to design the logo following the specific theme.
+I really like the new logo of the city of St. Petersburg: simple and understandable shape, the logo can be easily modified for different tasks. However, the city of Lille has a logo that everyone knows and recognizes. Therefore, we decided to combine simple shapes, tower and red color.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+<img src="../../../../assets/posts/newlogo/LilleStPi.png" style="width: 80%; height: 80%">
+
+## How we drew sketches
+
+How to start working with the logo? With sketches.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+At first we tried to prepare a number of sketches as part of our task submission. Sketches were created in a way so that we could immediately show variations on the various elements (the object's position, size, contrast). And during the process of negotiation we tried to combine some parts of the illustrations.
+The first results are shown hereunder:
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+<img src="../../../../assets/posts/newlogo/first.png" style="width: 50%; height: 50%">
+
+Because we wanted a universal logo and at the same time we wanted it to be unique. So we have decided to add a round shape:
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+<img src="../../../../assets/posts/newlogo/second.png">
+
+## How we perfected sketches
+
+But these versions were still far away from our idea. Therefore, we ask students designers from [ESAT](www.esat.fr). Please see [this article](https://whispyy.github.io/FeelLilleDevBlog/feellille/2016/12/04/ColorInDesign.html) about "Color in Design” for more information about their first visit.
+We showed them all our options and we tried to explain as clearly as possible our idea, and and what points were still causing issues. In this case, it was a poorly chosen colors and, as I thought, a tower fitting into a circle wasn’t very adapted.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+After 2 hours, we came to the final two sketches:
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+<img src="../../../../assets/posts/newlogo/third.png" style="width: 70%; height: 70%">
+
+The first consists of simple lines that are quite universal, and it conveys two ideas at once: the tower and its continuation, and the tower standing in the middle of the square. The second sketch is more abstract. Here we left the red circular form.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+## Our Choice
+
+After some thought, JF and I have decided to stop on the second variant. There is everything that we need. We also understand now how to implement the idea for splash-screens of our mobile applications and provide a logo in a promotional video.
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
+
+<img src="../../../../assets/posts/newlogo/FeelLille.png" style="width: 40%; height: 40%">
