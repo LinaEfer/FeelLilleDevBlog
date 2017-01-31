@@ -34,7 +34,7 @@ Because we wanted a universal logo and at the same time we wanted it to be uniqu
 
 ## How we perfected sketches
 
-But these versions were still far away from our idea. Therefore, we ask students designers from [ESAT](www.esat.fr). Please see [this article](https://whispyy.github.io/FeelLilleDevBlog/feellille/2016/12/04/ColorInDesign.html) about "Color in Design” for more information about their first visit.
+But these versions were still far away from our idea. Therefore, we ask students designers from [ESAT](http://www.esat.fr). Please see [this article](https://whispyy.github.io/FeelLilleDevBlog/feellille/2016/12/04/ColorInDesign.html) about "Color in Design” for more information about their first visit.
 We showed them all our options and we tried to explain as clearly as possible our idea, and and what points were still causing issues. In this case, it was a poorly chosen colors and, as I thought, a tower fitting into a circle wasn’t very adapted.
 {: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
