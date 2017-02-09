@@ -12,7 +12,7 @@ Hello everybody,
 
 Today we released two adverts to create more visibility on the project. 
 We passed a lot of time on this. Special thanks to Vasilina to have spent some night perfecting the montage to make it as perfect as we can.
-
+{: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
 
 ## Video
@@ -21,7 +21,7 @@ We passed a lot of time on this. Special thanks to Vasilina to have spent some n
 
 ## Poster
 
-<img src="../../../../assets/posts/FeelLille_Poster-1.png" style="width: 20%; height: 20%">
+<img src="../../../../assets/posts/FeelLille_Poster-1.png" style="width: 40%; height: 40%">
 
 
 
