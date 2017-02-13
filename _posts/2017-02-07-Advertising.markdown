@@ -10,7 +10,7 @@ tags:	Application Advertising Flyers Video
 
 Hello everybody,
 
-Today we released two adverts to create more visibility on the project. 
+Today we released two adverts to create more visibility on the project.
 We passed a lot of time on this. Special thanks to Vasilina to have spent some night perfecting the montage to make it as perfect as we can.
 {: style="text-align: justify; font-family: Verdana, Geneva, sans-serif"}
 
@@ -21,7 +21,7 @@ We passed a lot of time on this. Special thanks to Vasilina to have spent some n
 
 ## Poster
 
-<img src="../../../../assets/posts/FeelLille_Poster-1.png" style="width: 40%; height: 40%">
+<img src="../../../../assets/posts/FeelLille_Poster-2.png" style="width: 55%; height: 55%">
 
 
 
@@ -30,4 +30,3 @@ We passed a lot of time on this. Special thanks to Vasilina to have spent some n
 [Lien direct vidéo](https://www.youtube.com/watch?v=1DL5kT36ev0)
 
 [Lien poster PDF](../../../../assets/posts/PosterFeelLille.pdf)
-
